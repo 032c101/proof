@@ -1,0 +1,30 @@
+body {
+background-color: #A9E4D7
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #5089C6;
+border-width: 3px;
+width: 6%;
+}
+h1{
+  color: #11324D;
+  font-family: sans-serif;
+}
+h3{
+  color: #11324D;
+  font-family: sans-serif;
+}
+h2{
+  color: #11324D
+  font-family: sans-serif;
+}
+p
+{
+  color: #2D2424;
+}
+table{
+  color: #2D2424;
+}
